@@ -22,6 +22,7 @@ Velocity is a fully featured tabbed proxy with a **seamless browsing experience*
 - Support for themes installed through the Firefox addon store
 - Custom styled context menus
 - PWA enabled
+- Doge
 
 ### Internal URL's
 
